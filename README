@@ -1,1 +1,7 @@
 Objective of project
+Designed an intelligent pipeline for 72,000+ time series health readings including preprocessing, feature scaling, and
+temporal structuring.
+Developed an unsupervised anomaly detection module using One-Class SVM with an RBF kernel.
+Built a multi-task LSTM model to jointly learn sequence reconstruction and anomaly classification.
+Integrated SVM outputs, LSTM predictions, and reconstruction thresholds into a unified decision system for real-time
+elderly care monitoring.
